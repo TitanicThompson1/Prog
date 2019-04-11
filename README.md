@@ -6,7 +6,7 @@ Neste Git, existem os excercicios TP resolvidos e o Projeto1 (not very good, its
 
 Falta alguns excercicios das aulas praticas porque minha pessoa linda fabulosa e espetacular decidiu que eram demasiado abaixo de mim...
 
-Ou seja, não os consegui fazer/não tive fé para tentar.
+Ou seja, não os consegui fazer/tive fé para tentar.
 
 Professor: Avó Cantigas
 
